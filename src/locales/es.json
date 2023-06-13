@@ -1,0 +1,8 @@
+{
+  "email": "Correo electrónico",
+  "password": "Contraseña",
+  "login": "Iniciar sesión",
+  "forgotPassword": "¿Olvidaste tu contraseña?",
+  "createAccount": "Crear una nueva cuenta",
+  "noAccount": "No tienes cuenta?"
+}
