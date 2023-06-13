@@ -96,7 +96,7 @@ const PasswordRecovery = () => {
         </Form>
 
         <div style={{ display: 'flex', justifyContent: 'space-between' }}>
-          <a href="/login">{t('passwordRecovery.returnToLogin')}</a>
+          <a href="/">{t('passwordRecovery.returnToLogin')}</a>
           <a href="/signup">{t('passwordRecovery.createAccount')}</a>
         </div>
       </Card>

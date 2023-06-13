@@ -109,7 +109,7 @@ const LoginForm = () => {
           </Form.Item>
 
           <Form.Item>
-            <a href="/recuperar-contrasena">{t('forgotPassword')}</a>
+            <a href="/password-recovery">{t('forgotPassword')}</a>
           </Form.Item>
 
           <Form.Item>
